@@ -1,5 +1,4 @@
-# Android-Studio
-PREGUNTA 1 CLASE 05
+# PREGUNTA 1 CLASE 05
 ![image](https://github.com/user-attachments/assets/622a47c0-c526-4c46-9eb7-5fb83594ffe5)
 ![image](https://github.com/user-attachments/assets/b15bbeb7-7198-4e25-81f0-560bfc2b50f8)
 
